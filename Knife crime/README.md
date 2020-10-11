@@ -4,7 +4,7 @@ Police forces in the West Midlands reported a **higher rate of knife crime** com
 
 Staffordshire Police Force, West Mercia Police Force and Warwickshire Police Force are separate from West Midlands Police Force.
 
-Latest figures from the Office for National Statistics showed that for every 100,00 people, there were **118 reported incidents** in the specific West Midlands Police area.
+[Latest figures](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables) from the Office for National Statistics showed that for every 100,00 people, there were **118 reported incidents** in the specific West Midlands Police area.
 
 This was **nearly double** than the other respective police forces.
 
@@ -14,7 +14,7 @@ https://datawrapper.dwcdn.net/REyIt/1/
 
 **Knife crime in the West Midlands areas**
 
-There was a total of 5,096 incidents of knife crime at the end of March 2020 — the highest figure in the past 10 years.
+There was a total of **5,096** incidents of knife crime at the end of March 2020 — the highest figure in the past 10 years.
 
 Compared to last year, offences in **West Mercia** increased by 37% (733) and **Warickshire** also rose by 21% (329).
 
