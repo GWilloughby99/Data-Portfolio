@@ -13,7 +13,7 @@ This was **nearly double** than the other respective police forces.
 
 Use the map below to check how the West Midlands regions compared.
 
-https://datawrapper.dwcdn.net/Aeh5L/6/
+[Link](https://datawrapper.dwcdn.net/Aeh5L/6/)
 
 **Knife crime in the West Midlands areas**
 
@@ -25,4 +25,4 @@ Although, offences in **Staffordshire** decreased by 11% (597).
 
 Just over **one in 10 cases** of reported knife crime occurred in the entire West Midlands region.
 
-https://public.flourish.studio/visualisation/3977752/
+[Link](https://public.flourish.studio/visualisation/3977752/)
