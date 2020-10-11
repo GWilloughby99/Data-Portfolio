@@ -13,6 +13,9 @@ This was **nearly double** than the other respective police forces.
 
 Use the map below to check how the West Midlands regions compared.
 
+<iframe title="The incident rate of knives and sharp instruments for West Midlands police force areas" aria-label="map" id="datawrapper-chart-Aeh5L" src="https://datawrapper.dwcdn.net/Aeh5L/6/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="791"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
+
 https://datawrapper.dwcdn.net/REyIt/1/
 
 **Knife crime in the West Midlands areas**
@@ -24,6 +27,8 @@ Compared to last year, offences in **West Mercia** increased by 37% (733) and **
 Although, offences in **Staffordshire** decreased by 11% (597).
 
 Just over **one in 10 cases** of reported knife crime occurred in the entire West Midlands region.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3977752" data-url="https://flo.uri.sh/visualisation/3977752/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 https://public.flourish.studio/visualisation/3940659/
 
