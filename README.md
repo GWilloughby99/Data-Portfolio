@@ -25,6 +25,7 @@ Compared to last year, offences in **West Mercia** increased by 37% (733) and **
 Although, offences in **Staffordshire** decreased by 11% (597).
 
 Just over **one in 10 cases** of reported knife crime occurred in the entire West Midlands region.
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/3977752" data-url="https://flo.uri.sh/visualisation/3977752/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [West Midlands Police Forces](https://public.flourish.studio/visualisation/3977752/)
