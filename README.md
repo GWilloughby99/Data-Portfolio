@@ -28,3 +28,6 @@ Just over **one in 10 cases** of reported knife crime occurred in the entire Wes
 <div class="flourish-embed flourish-chart" data-src="visualisation/3977752" data-url="https://flo.uri.sh/visualisation/3977752/embed" aria-label=""><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 [West Midlands Police Forces](https://public.flourish.studio/visualisation/3977752/)
+
+<iframe title="Percentage of crimes with investigations concluding without an identified suspect" aria-label="chart" id="datawrapper-chart-q13ef" src="https://datawrapper.dwcdn.net/q13ef/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="557"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>
